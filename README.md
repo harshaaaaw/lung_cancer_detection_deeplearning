@@ -1,21 +1,15 @@
 
 # 🫁 Lung Cancer Detection using Deep Learning
 
-![Lung Cancer Detection Banner](path_to_your_banner_image) <!-- Add an eye-catching banner here -->
+![Lung Cancer Detection Banner](https://www.lungcancerpolicynetwork.com/app/uploads/LCPN-about-lung-cancer.jpg)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo.svg?style=for-the-badge&color=brightgreen)](https://github.com/yourusername/yourrepo)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo.svg?style=for-the-badge&color=blue)](https://github.com/yourusername/yourrepo)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/yourrepo.svg?style=for-the-badge&color=orange)](https://github.com/yourusername/yourrepo/graphs/contributors)
 
----
 
 ## 🚀 Project Overview
 
 Detecting lung cancer at an early stage can significantly improve treatment outcomes. This project leverages the power of **Deep Learning** to analyze medical images (CT scans) and accurately predict the presence of lung cancer.
 
-<p align="center">
-  <img src="path_to_your_gif_or_image" alt="Lung Cancer Detection Demo" width="500"/> <!-- Add a relevant GIF or image showcasing your model in action -->
-</p>
+
 
 ### Key Features
 
@@ -34,18 +28,13 @@ Detecting lung cancer at an early stage can significantly improve treatment outc
 - **Data Cleaning**: Removed noise and irrelevant features from the dataset.
 - **Segmentation**: Employed advanced image segmentation techniques to isolate lung regions from CT scans.
 
-<p align="center">
-  <img src="path_to_segmentation_image" alt="Lung Segmentation Process" width="600"/> <!-- Visual representation of the segmentation process -->
-</p>
 
 ### 2. Exploratory Data Analysis (EDA)
 
 - **Visualization**: Generated heatmaps, distribution plots, and 3D visualizations to understand the data.
 - **Statistical Analysis**: Performed hypothesis testing to validate assumptions.
 
-<p align="center">
-  <img src="path_to_eda_image" alt="Exploratory Data Analysis" width="500"/> <!-- EDA graphs or charts -->
-</p>
+
 
 ### 3. Model Building
 
@@ -58,9 +47,6 @@ Detecting lung cancer at an early stage can significantly improve treatment outc
 - **Cross-validation**: Implemented K-fold cross-validation for robust model assessment.
 - **Performance Metrics**: Focused on metrics critical to medical diagnosis, including sensitivity and specificity.
 
-<p align="center">
-  <img src="path_to_model_evaluation_image" alt="Model Evaluation" width="500"/> <!-- Performance graphs or confusion matrix -->
-</p>
 
 ### 5. Deployment
 
@@ -81,8 +67,8 @@ Detecting lung cancer at an early stage can significantly improve treatment outc
 ## 💻 Installation
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/harshaaaaw/lung_cancer_detection_deeplearning.git
+cd lung_cancer_detection_deeplearning
 pip install -r requirements.txt
 ```
 
@@ -97,24 +83,13 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please refer to our [CONTRIBUTING.md](path_to_contributing_file) for guidelines.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](path_to_license_file) file for details.
-
----
 
 ## 📧 Contact
 
 For any inquiries, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **Email**: [devaharsha988@gmail.com](mailto:devaharsha988@gmail.com)
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/harshaaaw)
 
 ---
 
@@ -124,6 +99,4 @@ For any inquiries, feel free to reach out:
 
 ---
 
-### 🌟 Acknowledgements
 
-Special thanks to the data contributors and the open-source community for their invaluable support.
